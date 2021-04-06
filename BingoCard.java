@@ -1,3 +1,9 @@
+/** 
+    * Class Assignment Computer Science 1400 
+    * @author Sachin Chhetri <sachinchhetri202@gmail.com>
+    * Use of MultiDimentional Array, Loops, Nested loops and Conditions.  
+    */
+
 import java.util.*;
 
 public class BingoCard{
